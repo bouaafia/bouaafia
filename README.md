@@ -29,3 +29,5 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaafia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bouaafia&theme=onedark)](https://github.com/bouaafia)
+
