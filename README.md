@@ -25,9 +25,9 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Asta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asta-nozel-944b8829b/)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bouaafia&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bouaafia&theme=dark&background=000000)](https://github.com/bouaafia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaafia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaafia&layout=compact&theme=dark)](https://github.com/bouaafia)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bouaafia&theme=onedark)](https://github.com/bouaafia)
 
